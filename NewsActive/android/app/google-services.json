@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "269697147535",
+    "firebase_url": "https://newsactive-a451c-default-rtdb.firebaseio.com",
+    "project_id": "newsactive-a451c",
+    "storage_bucket": "newsactive-a451c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269697147535:android:a5d2109194b63f1d4b86fa",
+        "android_client_info": {
+          "package_name": "com.newsactive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACd-gFBf2NDh4oZwGHVT0pTUV7zZRpNjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "NewsActive",
+  "displayName": "NewsActive",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4893703c-0a9f-4ceb-a594-4c94e672aa71"
+      }
+    }
+  }
+}
